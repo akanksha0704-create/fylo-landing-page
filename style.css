@@ -1,0 +1,62 @@
+.nav-link{
+ color: hsl(238, 18%, 60%);
+ font-weight: bold;
+}
+.image-container{
+ width: 100%;
+ height: auto;
+}
+.lower-content p a{
+ color: rgba(4, 51, 4, 0.778);
+}
+.lower{
+ background-color:rgb(248,248,254);
+}
+.grey{
+ background-color: hsl(238, 22%, 44%);
+}
+.white{
+filter: invert(100%);
+}
+.footer a{
+ color: white;
+ text-decoration: none;
+   font-family: 'Open Sans', sans-serif;
+}
+.footer a:hover{
+ color: rgb(236, 149, 236);
+
+}
+.icons i:hover{
+ color: rgb(236, 149, 236);
+}
+.nav-link:hover{
+ color: rgb(168, 65, 237);
+ font-weight: bold;
+}
+.arrowtext:hover{
+ color: rgb(14, 237, 14);
+}
+
+.first h1{
+ font-family: 'Raleway', sans-serif;
+}
+.first p{
+ font-family: 'Open Sans', sans-serif;
+}
+.lower h2{
+  font-family: 'Raleway', sans-serif;
+}
+.lower p{
+  font-family: 'Open Sans', sans-serif;
+}
+.grey h2{
+ font-family: 'Raleway', sans-serif;
+}
+.grey p{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.cd{
+ font-family: 'Open Sans', sans-serif;
+}
